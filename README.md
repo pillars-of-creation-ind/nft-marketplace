@@ -58,9 +58,10 @@ module.exports = {
   },
   plugins: [],
 };
+```
 
+```bash
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 ```
