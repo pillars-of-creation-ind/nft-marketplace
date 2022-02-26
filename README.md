@@ -47,6 +47,8 @@ Setup
 npx tailwindcss init -p
 ```
 
+| tailwind.config.js
+
 ```bash
 module.exports = {
   content: [
@@ -59,6 +61,8 @@ module.exports = {
   plugins: [],
 };
 ```
+
+| styles/globals.css
 
 ```bash
 @tailwind base;
