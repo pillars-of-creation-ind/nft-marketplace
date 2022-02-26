@@ -46,3 +46,21 @@ Setup
 ```bash
 npx tailwindcss init -p
 ```
+
+```bash
+module.exports = {
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+```
