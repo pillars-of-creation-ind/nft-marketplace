@@ -69,3 +69,12 @@ module.exports = {
 @tailwind components;
 @tailwind utilities;
 ```
+
+```bash
+# Project reference
+https://www.youtube.com/watch?v=7Q5E6RvLlUw
+
+# UI's
+https://github.com/codingwithmuhib/React-NFT-Website
+https://www.youtube.com/watch?v=edr2o59Twrs
+```
